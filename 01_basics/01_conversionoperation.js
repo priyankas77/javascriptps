@@ -24,4 +24,18 @@ console.log(score);
  // true => boolean true=> 1 and false =>0
  
  
+ let str1="Hello "
+ let str2 ="Priyanka"
+ let str3=str1+str2
+ console.log(str3);
+
+ console.log("1"+2);
+ console.log(1+ "2");
+ console.log("1"+ 2 + 2);
+ console.log(1 +"2"+"2");
+ console.log(1+ 2 + "2");
+ 
+ 
+ 
+ 
  
